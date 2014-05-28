@@ -1,7 +1,7 @@
 # Calculator welcome message and request for mathmatical operation
 puts "Welcome to your calculator!"
 puts
-puts "Please choose an operation:  addition, substraction, multiplication, division"
+puts "Please choose an operation:  addition, subtraction, multiplication, division"
 puts
 
 # Selection of operator by user and request for two numbers to compute
